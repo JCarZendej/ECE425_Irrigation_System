@@ -62,7 +62,7 @@ The system reads 40-bit DHT22 sensor data using GPIO polling. A rotary encoder p
 
 ## Functional Block Diagram
 
-![System Block Diagram](Block_Diagram.png)  
+![System Block Diagram](Irrigation_System/Block_Diagram.png)  
 *Figure 1: Functional Block Diagram – Smart Irrigation System*
 
 
